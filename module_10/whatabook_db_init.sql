@@ -1,5 +1,5 @@
 /*
-    Title: whatabook.init.sql
+    Title: whatabook_db_init.sql
     Author: Maria Q. Michaels
     Date: 8 May 2022
     Description: WhatABook database initialization and creation
